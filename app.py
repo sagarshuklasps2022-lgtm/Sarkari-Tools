@@ -7,7 +7,7 @@ from datetime import date
 st.set_page_config(
     page_title="Sarkari Tools - Free Govt Exam Tools",
     page_icon="🛠️",
-    layout="centered",
+    layout="wide",
 )
 
 # Website Header
