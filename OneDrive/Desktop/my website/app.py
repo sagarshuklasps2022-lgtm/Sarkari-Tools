@@ -150,7 +150,7 @@ with tab1:
 
         # Download Button
         st.download_button(
-            label="Download Ready-to-Upload File",
+            label="Download Image",
             data=processed_bytes,
             file_name="sarkari_tools_optimized.jpg",
             mime="image/jpeg",
